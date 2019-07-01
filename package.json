@@ -1,0 +1,11 @@
+{
+  "name": "dailycoding",
+  "version": "1.0.0",
+  "description": "Solving Daily Coding problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Barboza",
+  "license": "ISC"
+}
